@@ -1,6 +1,6 @@
 name: "🎟️ Request Hackathon Invite"
 description: "Click here to get an invite to the BCX26 GitHub Organization."
-title: "Invite: @{{ github.actor }}"
+title: "Invite: @{{github.actor}}"
 labels: ["invite-request"]
 body:
   - type: markdown
