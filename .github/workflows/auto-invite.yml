@@ -24,7 +24,7 @@ jobs:
           curl -s -X PUT -H "Authorization: token $GITHUB_TOKEN" \
             -H "Accept: application/vnd.github.v3+json" \
             "https://api.github.com/orgs/$ORG_NAME/memberships/$USERNAME" \
-            -d '{"role":"direct_member"}'
+            -d '{"role":"member"}'
             
       - name: Comment on Issue
         env:
