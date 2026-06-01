@@ -13,9 +13,9 @@ You can either scan the QR code below on your mobile device, or follow the click
 </p>
 
 1. Go to the **[Issues tab](https://github.com/Bosch-Connected-Experience-26/BCX26-Welcome/issues/new/choose)** of this repository.
-2. Click the green **Get started** button next to "🎟️ Request Hackathon Invite".
+2. Choose the "🎟️ Request Hackathon Invite".
 3. Check the confirmation box, then click the green **Submit new issue** button.
 4. **Wait a few seconds!** Our bot will automatically send you an invite and close the issue.
 5. Check your email or look for the yellow banner at the top of the **[Organization Home Page](https://github.com/Bosch-Connected-Experience-26)** to accept your invite.
 
-Once you are in, find the **[Team Template Repo](https://github.com/Bosch-Connected-Experience-26/SolutionPlan_Template)** repository, click **Use this template** to create a workspace for your team, and happy hacking! 💻✨
+Once you are in, find the **[Team Template Repo](https://github.com/Bosch-Connected-Experience-26/Team_Template_Repo)** repository, click **Use this template** to create a workspace for your team, and happy hacking! 💻✨
