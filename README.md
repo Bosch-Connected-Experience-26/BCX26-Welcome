@@ -5,6 +5,11 @@ Welcome to the official GitHub organization for the **Bosch ConnectedExperience 
 To get access to the template repositories, challenges, and start collaborating with your team, you need to become a member of this GitHub organization.
 
 ### 📥 How to get your invitation:
+You can either scan the QR code below on your mobile device, or follow the clickable steps!
+
+<p align="center">
+  <img src="./qr-code_Invite2GitRepoBCX26.png" alt="Scan to get invited to BCX26 GitHub Org" width="300"/>
+</p>
 
 1. Go to the [Issues tab](../../issues/new/choose) of this repository.
 2. Click the green **Get started** button next to "🎟️ Request Hackathon Invite".
