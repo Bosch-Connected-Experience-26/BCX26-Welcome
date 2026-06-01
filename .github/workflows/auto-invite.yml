@@ -36,7 +36,7 @@ jobs:
             
             ✅ **Success!** An invitation to join the **Bosch-Connected-Experience-26** organization has been sent to you. 
             
-            👉 **Next Step:** Please check your email for the invite, or visit https://github.com/Bosch-Connected-Experience-26 and click the yellow **Join** banner at the top of the page."
+            👉 **Next Step:** Please check your email for the invite, or visit https://github.com/Bosch-Connected-Experience-26 and click the yellow **View Invitation** banner at the top of the page."
 
       - name: Close Issue
         env:
