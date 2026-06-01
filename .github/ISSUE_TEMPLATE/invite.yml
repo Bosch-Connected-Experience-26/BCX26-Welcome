@@ -7,4 +7,11 @@ body:
     attributes:
       value: |
         ## Welcome to BCX26! 🚀
-        Click the green **Submit new issue** button below to automatically receive your invitation to the Bosch-Connected-Experience-26 GitHub Organization.
+        Check the box below and click the green **Submit new issue** button to automatically receive your invitation to the Bosch-Connected-Experience-26 GitHub Organization.
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: "Confirmation"
+      options:
+        - label: "Yes, please send me an invite to the organization!"
+          required: true
