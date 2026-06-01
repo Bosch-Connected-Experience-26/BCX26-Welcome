@@ -12,7 +12,7 @@ You can either scan the QR code below on your mobile device, or follow the click
 </p>
 
 1. Go to the [Issues tab](../../issues/new/choose) of this repository.
-2. Click the green **Get started** button next to "🎟️ Request Hackathon Invite".
+2. Click the green **New Issue** button and select "🎟️ Request Hackathon Invite".
 3. Click **Submit new issue** (you don't need to write anything).
 4. **Wait a few seconds!** Our bot will automatically send you an invite.
 5. Check your email or look for the yellow banner at the top of the [Organization Home Page](https://github.com/Bosch-Connected-Experience-26) to accept your invite.
