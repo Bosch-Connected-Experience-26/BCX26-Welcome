@@ -4,10 +4,13 @@ on:
   issues:
     types: [opened]
 
+# NEU: Das gibt dem Standard-Token die Erlaubnis, Kommentare zu schreiben und Issues zu schließen
+permissions:
+  issues: write
+
 jobs:
   invite_user:
     runs-on: ubuntu-latest
-    # Wir prüfen wieder auf das Label!
     if: contains(github.event.issue.labels.*.name, 'invite-request')
     
     steps:
