@@ -17,4 +17,4 @@ You can either scan the QR code below on your mobile device, or follow the click
 4. **Wait a few seconds!** Our bot will automatically send you an invite.
 5. Check your email or look for the yellow banner at the top of the [Organization Home Page](https://github.com/Bosch-Connected-Experience-26) to accept your invite.
 
-Once you are in, find the [SolutionPlan_Template](https://github.com/Bosch-Connected-Experience-26/Team_Template_Repo) repository, click **Use this template**, and happy hacking! 💻✨
+Once you are in, find the [Team Template Repo](https://github.com/Bosch-Connected-Experience-26/Team_Template_Repo) repository, click **Use this template**, and happy hacking! 💻✨
