@@ -7,13 +7,12 @@ on:
 jobs:
   invite_user:
     runs-on: ubuntu-latest
-    # Only run this if the issue has the label from our template
+    # Wir prüfen wieder auf das Label!
     if: contains(github.event.issue.labels.*.name, 'invite-request')
     
     steps:
       - name: Send Organization Invitation
         env:
-          # This uses the secret you created in Step 3
           GITHUB_TOKEN: ${{ secrets.ORG_INVITE_TOKEN }}
           ORG_NAME: "Bosch-Connected-Experience-26" 
           USERNAME: ${{ github.actor }}
@@ -26,7 +25,6 @@ jobs:
             
       - name: Comment on Issue
         env:
-          # This uses the default bot token to comment
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gh issue comment ${{ github.event.issue.number }} \
