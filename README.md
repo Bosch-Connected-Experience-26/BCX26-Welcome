@@ -17,6 +17,14 @@ You can either scan the QR code below on your mobile device, or follow the click
 3. Check the confirmation box, then click the green **Submit new issue** button.
 4. **Wait a few seconds!** Our bot will automatically send you an invite and close the issue.
 5. Check your email or look for the yellow banner at the top of the **[Organization Home Page](https://github.com/Bosch-Connected-Experience-26)** to accept your invite.
-6. Create yourself a Github Team and invite your teammates
-   
-Once you are in, find the **[Team Template Repo](https://github.com/Bosch-Connected-Experience-26/Team_Template_Repo)** repository, click **Use this template** to create a workspace for your team, and happy hacking! 💻✨
+
+
+---
+## 🛠️ Next Steps for Teams
+
+Once you have accepted your invitation to the organization, it's time to set up your workspace:
+
+1. **Form a GitHub Team:** Go to the Organization's **[Teams tab](https://github.com/orgs/Bosch-Connected-Experience-26/teams)** and click **New team**. Name it after your Hackathon team and invite your team members to join it.
+2. **Create your Repo:** Go to the **[Team Template Repo](https://github.com/Bosch-Connected-Experience-26/Team_Template_Repo)** repository and click the green **Use this template** button (Create a new repository). 
+3. **Configure the Repo:** Name the new repository after your Team Name. *Important: Make sure to grant your newly created GitHub Team 'Write' or 'Admin' access to this repository so you can all collaborate!*
+4. **Fill out 'Your Team at a Glance':** Edit the `README.md` in your new repository to introduce your team members, state your challenge, and sketch your core idea.
