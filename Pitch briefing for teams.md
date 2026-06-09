@@ -40,6 +40,7 @@ Sequence:
 4.  **Jury Deliberation**: The judges convene to discuss and finalize the scores while the participants take a break.
 5.  **Award Ceremony**: Announcement of the winners.
 
+---
 
 ## ⚖️ Jury & Scoring
 
