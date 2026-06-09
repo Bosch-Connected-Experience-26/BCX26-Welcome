@@ -2,6 +2,9 @@
 
 Welcome to the official GitHub organization for the **Bosch ConnectedExperience 2026**. 
 
+
+Link to further Information: [Please click](https://github.com/Bosch-Connected-Experience-26/.github/tree/main/profile)
+
 To get access to the template repositories, challenges, and start collaborating with your team, you need to become a member of this GitHub organization.
 
 ### 📥 How to get your invitation:
